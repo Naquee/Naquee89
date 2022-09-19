@@ -46,13 +46,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j-prajwal" alt="j-prajwal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/prajwal_jais" target="blank"><img src="https://img.shields.io/twitter/follow/prajwal_jais?logo=twitter&style=for-the-badge" alt="prajwal_jais" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/J-Prajwal?tab=repositories](https://github.com/J-Prajwal?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJs, NodeJs, Express, MongoDB, Mongoose, REST_API, ElectronJs, Git & Bash**
 
-- 📫 How to reach me **jaisprajwal.1999@gmail.com**
+- 📫 How to reach me **naqueealam99@gmail.com**
 
 - ⚡ Fun fact **I think I understand my own written code 😝**
 
