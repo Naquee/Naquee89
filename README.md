@@ -58,13 +58,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/prajwal_jais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prajwal_jais" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prajwal-jaiswal-3772aa215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal jaiswal" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/prajwal_jais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prajwal_jais" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/naquee-alam-431b53208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naquee" height="30" width="40" /></a>
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j-prajwal&" alt="j-prajwal" />
 
-![GitHub metrics](https://metrics.lecoq.io/j-prajwal)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=j-prajwal)  
 
