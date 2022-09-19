@@ -38,7 +38,8 @@
  GeekBuying is Ecommerce website exclusive forther elecronics devices.
   
  
-![Rainbow Gradient Pink and Purple Zoom Virtual Background](https://user-images.githubusercontent.com/98648448/187078503-b8b32ed9-0ba0-4c32-b271-a3dbb51484fe.jpg)
+![Screenshot (324)](https://user-images.githubusercontent.com/100348982/191047973-7d659edf-164d-4378-8fd0-de2b56d7d757.png)
+
 
   ## Screens ( All screens are responsive including the calendar )
    - Homepage
