@@ -52,8 +52,8 @@
    - Login / Signup
    
    <br />
+![Screenshot (325)](https://user-images.githubusercontent.com/100348982/191048651-73cefea5-1bad-4433-ba61-dc30f5336c40.png)
 
-![Copy of Rainbow Gradient Pink and Purple Zoom Virtual Background](https://user-images.githubusercontent.com/98648448/187080274-65a8fbba-6649-4e9c-b091-b79bc22e2b43.jpg)
 
 ## 🚀 Features
 - Login/Signup User Account
