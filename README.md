@@ -1,223 +1,70 @@
-# Naquee89
+<!-- <img  width="50%" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" /> -->
 
-
-
-<h1 align="center">GeekBuying</h1> 
-
-<h2 align="center">It's a Ecommerce website</h2>
-
-<br />
-<p align="center">
-    <img src="https://img.shields.io/badge/React_(17.0.2)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Redux_(4.1.1)-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui"/>
-    <img src="https://img.shields.io/badge/Rest_API-02303A?style=for-the-badge&logo=react-router&logoColor=white" alt="restAPI"/>
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="restAPI"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="restAPI"/>
-    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="restAPI"/>
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="restAPI"/>
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="restAPI"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs"/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-</p>
-
-
-<h3 align="center"><a href="https://cute-shortbread-9d187d.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
-
-
-<p align="center"> 
-    <br />&#10023;
-    <a href="#Demo">View Demo</a>   &#10023;  
-    <a href="https://github.com/J-Prajwal/clockifyClone-fixedThread/issues">Report Bug</a>    &#10023;
-    <a href="#Getting-Started">Getting Started</a> &#10023; <a href="#Install">Installing</a> &#10023;    
-    <a href="#Contact">Author</a> &#10023;
-  </p>
-  
- GeekBuying is Ecommerce website exclusive forther elecronics devices.
-  
- 
-![Screenshot (324)](https://user-images.githubusercontent.com/100348982/191047973-7d659edf-164d-4378-8fd0-de2b56d7d757.png)
-
-
-  ## Screens ( All screens are responsive including the calendar )
-   - Homepage
-   - Features
-   - Time Tracker
-   - Project Management
-   - Calendar - Event & Schedule
-   - Upgrade
-   - Checkout
-   - Login / Signup
-   
-   <br />
-![Screenshot (325)](https://user-images.githubusercontent.com/100348982/191048651-73cefea5-1bad-4433-ba61-dc30f5336c40.png)
-
-
-## 🚀 Features
-- Login/Signup User Account
-- Create Your Own Projects & Tasks
-- Delete & Update Your Projects & Tasks
-- Track Your Time With Our Stopwatch
-- Keep A Record Of Your Tasks
-- Mark Events & Schedules On The Calendar(Only for Paid Users)
-- Buy Our Subscription Plan
-- Enjoy Unlimited Benifits
-
-<br />
-
-## Glimpses of Clockify - Clone 🙈 :
-
-
-<table>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/98648448/187081084-431228e1-c84b-4e9e-9b81-c1fc84e365e7.jpg" alt="home" /></td>
-    <td><img src="https://user-images.githubusercontent.com/98648448/187081184-118ed4ce-7beb-4817-a895-0ef5e0849a2f.jpg" alt="signup" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/98648448/187081278-9567df85-a920-4eac-8829-de16e51635a8.jpg" alt="products" /></td>
-    <td><img src="https://user-images.githubusercontent.com/98648448/187081431-97751f0d-ccc6-4a71-ad20-9ed33b3aeedf.jpg" alt="product-details" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/98648448/187081539-0ff2c725-94ff-4957-9537-4093009f2e10.jpg" alt="wishlist" /></td>
-    <td><img src="https://user-images.githubusercontent.com/98648448/187081705-d4f9a36b-055c-4833-8816-4e856162c8d3.jpg" alt="cart" /></td>
-  </tr>
+<h1 align="center">
+    Hi
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
+    I'm Md Naquee Alam
+    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+</h1>
+<table border="0">
+    <tr>
+        <td>
+            <h2 align="center">A passionate full-stack web developer from India who loves to build amazing projects and work in a team. <br /> I dream to get recognized globally by something that I can do for my society.</h2>
+        </td>
+        <td>
+            <img  src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" alt="j-prajwal" />
+        </td>
+    </tr>
 </table>
 
+
 <br />
 
-## Demo
+<h2 align="center"><i>Tech Stack</i></h2>
 
-[Check here to see the presentation video of this project](https://drive.google.com/file/d/1o6nQyCER_kjk7TDh5xZ2XzbbbjcYb0-9/view?usp=sharing)
+<p align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
+</p>
+<br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=j-prajwal&label=Profile%20views&color=0e75b6&style=flat" alt="j-prajwal" /> </p>
 
-<br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=j-prajwal" alt="j-prajwal" /></a> </p>
 
-## Getting Started
+<p align="left"> <a href="https://twitter.com/prajwal_jais" target="blank"><img src="https://img.shields.io/twitter/follow/prajwal_jais?logo=twitter&style=for-the-badge" alt="prajwal_jais" /></a> </p>
 
-This project was built using React v 17.0.2, Redux v 4.1.1, Chakra UI, CSS, JavaScript, Rest API, Node JS, Express and MongoDB. It is a time & task management web application and for running on your local environment you should follow these guidelines.
+- 👨‍💻 All of my projects are available at [https://github.com/J-Prajwal?tab=repositories](https://github.com/J-Prajwal?tab=repositories)
 
+- 💬 Ask me about **HTML, CSS, JavaScript, ReactJs, NodeJs, Express, MongoDB, Mongoose, REST_API, ElectronJs, Git & Bash**
 
-### Prerequisites
+- 📫 How to reach me **jaisprajwal.1999@gmail.com**
 
-- NPM 
-- Node JS
-- MongoDB
+- ⚡ Fun fact **I think I understand my own written code 😝**
 
-### Setup
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/prajwal_jais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prajwal_jais" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prajwal-jaiswal-3772aa215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal jaiswal" height="30" width="40" /></a>
+</p>
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j-prajwal&" alt="j-prajwal" />
 
-The project repository can be found in [GitHub link](https://github.com/J-Prajwal/clockifyClone-fixedThread) or just clone the project using this command. 
+![GitHub metrics](https://metrics.lecoq.io/j-prajwal)
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=j-prajwal)  
 
-```
-Using HTTPS
-# git clone  https://github.com/J-Prajwal/clockifyClone-fixedThread
-```
-
-+ Open terminal on your workspace with
-
-```
-cd /home/workspace/clockifyClone-fixedThread
-```
-
-
-## Install
-
-Install NPM
-
-Check that you have node and npm installed
-
-To check if you have Node.js installed, run this command in your terminal:
-
-
-```
-node -v
-```
-
-To confirm that you have npm installed you can run this command in your terminal:
-
-
-```
-npm -v
-```
-
-To confirm that you have MongoDB installed you can run this command in your terminal:
-
-
-```
-mongo -v
-```
-
-
-To install all the dependences of the project, run the following command:
-
-
-```
-cd backend
-npm install
-cd ../
-cd frontend
-npm install
-```
-
-
-To run the application got to the client folder and run the following command:
-
-```
-npm start
-```
-
-### Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file in server folder
-
-`PORT`
-
-`MONGO_URL`
-
-`SECRET`
-
- `GOOGLE_CLIENT_ID`
-
-`GOOGLE_CLIENT_SECRET`
-
-
-### Tools used on this project
-
-- Visual Studio Code - IDE
-- create vite@latest - React Template 
-- MongoDB compass - DataBase Visualization
-- Postman - API Testing
-
-<br/>
-
-
-
-## Contact The Team
-
-If you want to contact us, you can reach us through below handles.
-
-<h3>Prajwal Jaiswal - Team Lead</h3>
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prajwal-jaiswal-3772aa215/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/J-Prajwal)
-
-<h3>Arfeen Mushtaque - Team Member</h3>
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arfeen-mushtaque-7a5988225/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arfeen98)
-
-<h3>Nikhil Mehra - Team Member</h3>
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arfeen-mushtaque-7a5988225/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NikhilMehara)
-
-© 2022 Team Fixed-Thread
-
-
-
-## Show your support
-
-Give a ⭐️ if you like this project!
