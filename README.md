@@ -48,7 +48,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/J-Prajwal?tab=repositories](https://github.com/J-Prajwal?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Naquee?tab=repositories](https://github.com/Naquee?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJs, NodeJs, Express, MongoDB, Mongoose, REST_API, ElectronJs, Git & Bash**
 
