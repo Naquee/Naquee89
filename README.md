@@ -4,7 +4,7 @@
 
 <h1 align="center">GeekBuying</h1> 
 
-<h2 align="center">It's a MERN Stack Time tracking and management web app</h2>
+<h2 align="center">It's a Ecommerce website</h2>
 
 <br />
 <p align="center">
@@ -24,7 +24,7 @@
 </p>
 
 
-<h3 align="center"><a href="https://fixedthread-clockify.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
+<h3 align="center"><a href="https://cute-shortbread-9d187d.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
 
 
 <p align="center"> 
