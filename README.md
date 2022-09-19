@@ -59,7 +59,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/naquee-alam-431b53208/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/100348982?v=4" alt="naqueealam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naquee-alam-431b53208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prajwal_jais" height="30" width="40" /></a>
 </p>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j-prajwal&" alt="j-prajwal" />
